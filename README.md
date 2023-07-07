@@ -9,5 +9,6 @@ This repository offers a sample implementation that demonstrates how to create a
    
 ## Usage
 1. Start the Express server: npm start
-2. Open the  browser and navigate to `http://localhost:3489/signedUrl` to get the signed URL
+2. provide the environment variables(.env)
+3. Open the  browser and navigate to `http://localhost:3489/signedUrl` to get the signed URL
 
