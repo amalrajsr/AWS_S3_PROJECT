@@ -6,9 +6,8 @@ This repository offers a sample implementation that demonstrates how to create a
 1. Clone the repository: git clone https://github.com/amalrajsr/AWS_S3_PROJECT.git
 2. Navigate to the project directory: cd AWS_S3_PROJECT
 3. Install the dependencies: npm install
-
-
-
-
-
+   
+## Usage
+1. Start the Express server: npm start
+2. Open the  browser and navigate to `http://localhost:3489/signedUrl` to get the signed URL
 
